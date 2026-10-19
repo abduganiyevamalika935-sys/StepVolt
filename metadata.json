@@ -1,0 +1,6 @@
+{
+  "name": "StepGrid — Smart Pedestrian Energy Network",
+  "description": "Interactive smart-city simulation and visualization platform harvesting micro-energy from pedestrian movement through piezoelectric floor tiles to power local infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
